@@ -14,5 +14,7 @@ Estou aprendendo:
 ### Exemplo de código
 
 ```bash
-git status``` text
+git status  
+
+``` text
 
