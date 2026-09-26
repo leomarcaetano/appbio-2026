@@ -14,5 +14,7 @@ Estou aprendendo:
 ### Exemplo de código
 
 ```bash
-git status  
+git status
+```
 
+[Meu GitHub](https://github.com/leomarcaetano)
